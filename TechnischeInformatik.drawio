@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="Seite-1" id="dkd7-r5uzlSgKmpO1Qbb">
-    <mxGraphModel dx="1607" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1506" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="Technische Informatik (Themenübersicht)" id="root_node">
+        <UserObject label="Technische Informatik (Gesamtübersicht)" id="root_node">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;html=1;whiteSpace=wrap;fontSize=20;align=center;" vertex="1">
             <mxGeometry height="60" width="360" x="640" y="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Zahlen, Arithmetik &amp; Assembler" id="cat_1">
+        <UserObject label="Zahlen, Arithmetik &amp; MMIX" id="cat_1">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
             <mxGeometry height="40" width="280" x="40" y="160" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 1: Zahlensysteme (+ Zusatzfolie)&#xa;Aufgabe 2: Addition und Subtraktion (+ Zusatzfolie)&#xa;Aufgabe 3: Darstellungsbereich (+ Zusatzfolie)&#xa;Aufgabe 4: Interpretation von Bits (+ Zusatzfolie)&#xa;Aufgabe 5: Bit-Shifts (+ Zusatzfolie)&#xa;Aufgabe 6: Gleitkommazahlen nach IEEE-754 (+ Zusatzfolie)&#xa;Aufgabe 7: Fallstricke beim Programmieren (+ Zusatzfolie)&#xa;Aufgabe 8: Assoziativität bei IEEE-754 (+ Zusatzfolie)" id="c1_1">
+        <UserObject label="Aufgabe 1: Zahlensysteme (+ Zusatzfolie)&#xa;Aufgabe 2: Addition und Subtraktion (+ Zusatzfolie)&#xa;Aufgabe 3: Darstellungsbereich (+ Zusatzfolie)&#xa;Aufgabe 4: Interpretation von Bits (+ Zusatzfolie)&#xa;Aufgabe 5: Bit-Shifts (+ Zusatzfolie)&#xa;Aufgabe 6: Gleitkommazahlen IEEE-754 (+ Zusatzfolie)&#xa;Aufgabe 7: Fallstricke beim Programmieren (+ Zusatzfolie)&#xa;Aufgabe 8: Assoziativität bei IEEE-754 (+ Zusatzfolie)" id="c1_1">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
             <mxGeometry height="130" width="280" x="40" y="210" as="geometry" />
           </mxCell>
@@ -29,14 +29,14 @@
             <mxGeometry height="40" width="280" x="360" y="160" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 1: Normalformen (+ Zusatzfolie)&#xa;Aufgabe 2: Funktionale Vollständigkeit&#xa;Aufgabe 3: Fehlerdiagnose (+ Zusatzfolie)&#xa;Aufgabe 1: Realisierung Boolescher Funktionen&#xa;Aufgabe 2: Darstellung Boolescher Funktionen" id="c2_1">
+        <UserObject label="Aufgabe 1: Normalformen (+ Zusatzfolie)&#xa;Aufgabe 2: Funktionale Vollständigkeit (+ Zusatzfolie)&#xa;Aufgabe 3: Fehlerdiagnose (+ Zusatzfolie)&#xa;Aufgabe 1: Realisierung Boolescher Funktionen (+ Z)&#xa;Aufgabe 2: Darstellung Boolescher Funktionen (+ Z)" id="c2_1">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
             <mxGeometry height="80" width="280" x="360" y="210" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 1: Reduzierte OBDDs&#xa;Aufgabe 2: Erfüllbarkeit von ROBDDs (+ Zusatzfolie)&#xa;Aufgabe 3: Karnaugh-Diagramm (+ Zusatzfolie)&#xa;Aufgabe 4: Karnaugh-Verfahren (+ Zusatzfolie)&#xa;Aufgabe 5: Fehler in Minimierung (+ Zusatzfolie)&#xa;Aufgabe 7: Verfahren von Quine-McCluskey (+ Zusatzfolie)" id="c2_2">
+        <UserObject label="Aufgabe 1: Reduzierte OBDDs&#xa;Aufgabe 2: Erfüllbarkeit von ROBDDs (+ Zusatzfolie)&#xa;Aufgabe 3: Karnaugh-Diagramm (+ Zusatzfolie)&#xa;Aufgabe 4: Karnaugh-Verfahren (+ Zusatzfolie)&#xa;Aufgabe 5: Fehler in Minimierung (+ Zusatzfolie)&#xa;Aufgabe 6: 7-Segmentanzeige (+ Zusatzfolie)&#xa;Aufgabe 7: Verfahren von Quine-McCluskey (+ Zusatzfolie)" id="c2_2">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
-            <mxGeometry height="100" width="280" x="360" y="300" as="geometry" />
+            <mxGeometry height="110" width="280" x="360" y="300" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Digitale Bausteine, Speicher &amp; VHDL" id="cat_3">
@@ -44,19 +44,19 @@
             <mxGeometry height="40" width="280" x="680" y="160" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 3: Programmable Logic Arrays&#xa;Aufgabe 4: Faltung eines Programmable Logic Array&#xa;Aufgabe 1: VHDL&#xa;Aufgabe 2: Ports&#xa;Aufgabe 3: Interrupts" id="c3_1">
+        <UserObject label="Aufgabe 3: Programmable Logic Arrays (+ Zusatzfolie)&#xa;Aufgabe 4: Faltung eines PLA (+ Zusatzfolie)&#xa;Aufgabe 1: VHDL&#xa;Aufgabe 2: Ports&#xa;Aufgabe 3: Interrupts" id="c3_1">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
             <mxGeometry height="80" width="280" x="680" y="210" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 1: Addierwerke&#xa;  a) Parallel-Addierwerk (1, 2, 3)&#xa;  a) Serien-Addierwerk (1, 2, 3)&#xa;  a) Von-Neumann-Addierwerk (1, 2, 3)&#xa;  b) Vor- und Nachteile der Addierwerke&#xa;Aufgabe 3: Multiplizierer (+ Zusatzfolie)&#xa;Aufgabe 2: Digitale Schaltungen (+ Zusatzfolie)" id="c3_2">
+        <UserObject label="Aufgabe 1: Addierwerke (+ Zusatzfolie)&#xa;  - a) Parallel-Addierwerk (1, 2, 3)&#xa;  - a) Serien-Addierwerk (1, 2, 3)&#xa;  - a) Von-Neumann-Addierwerk (1, 2, 3)&#xa;  - b) Vor- und Nachteile der Addierwerke&#xa;Aufgabe 3: Multiplizierer (+ Zusatzfolie)&#xa;Aufgabe 2: Digitale Schaltungen (+ Zusatzfolie)" id="c3_2">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
             <mxGeometry height="110" width="280" x="680" y="300" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 1: Latches (+ Zusatzfolie)&#xa;Aufgabe 2: Registerschaltung (+ Zusatzfolie)&#xa;Aufgabe 3: 4x3-Speicher (+ Zusatzfolie)&#xa;Aufgabe 4: Aufzugssteuerung (+ Zusatzfolie)&#xa;Aufgabe 5: Signalverlauf (+ Zusatzfolie)&#xa;Aufgabe 6: Schieberegister (+ Zusatzfolie)&#xa;Aufgabe 6: 7-Segmentanzeige (+ Zusatzfolie)" id="c3_3">
+        <UserObject label="Aufgabe 1: Latches (+ Zusatzfolie)&#xa;Aufgabe 2: Registerschaltung (+ Zusatzfolie)&#xa;Aufgabe 3: 4x3-Speicher (+ Zusatzfolie)&#xa;Aufgabe 4: Aufzugssteuerung (+ Zusatzfolie)&#xa;Aufgabe 5: Signalverlauf (+ Zusatzfolie)&#xa;Aufgabe 6: Schieberegister (+ Zusatzfolie)" id="c3_3">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
-            <mxGeometry height="110" width="280" x="680" y="420" as="geometry" />
+            <mxGeometry height="100" width="280" x="680" y="420" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Netzwerkanalyse &amp; Passive Bauelemente" id="cat_4">
@@ -64,12 +64,12 @@
             <mxGeometry height="40" width="280" x="1000" y="160" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 1/4: Netzwerkanalyse (+ Zusatzfolie)&#xa;  - Zweigstromanalyse&#xa;  - Maschenstromanalyse&#xa;  - Knotenspannungsanalyse&#xa;Aufgabe 2: Widerstandsnetze (+ Zusatzfolie)&#xa;Aufgabe 3: Spannungen, Ströme und Widerstände" id="c4_1">
+        <UserObject label="Aufgabe 1/4: Netzwerkanalyse (+ Zusatzfolie)&#xa;  - Zweigstromanalyse&#xa;  - Maschenstromanalyse&#xa;  - Knotenspannungsanalyse&#xa;Aufgabe 2: Widerstandsnetze (+ Zusatzfolie)&#xa;Aufgabe 3: Spannungen, Ströme und Widerstände (+ Z)" id="c4_1">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
             <mxGeometry height="90" width="280" x="1000" y="210" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Aufgabe 1: Idealer Plattenkondensator (+ Zusatzfolie)&#xa;Aufgabe 2: Kondensatorschaltungen / Reihen-Par. (+ Z)&#xa;Aufgabe 3: Ladeverhalten / Auf- Entladen (+ Z)&#xa;Aufgabe 4: Ideale Zylinderspule (+ Zusatzfolie)&#xa;Aufgabe 5: Auf- und Entladen einer Spule (+ Zusatzfolie)&#xa;Aufgabe 6: Spulenschaltungen / Reihen-Par. (+ Z)" id="c4_2">
+        <UserObject label="Aufgabe 1: (Der) Ideale(r) Plattenkondensator (+ Z)&#xa;Aufgabe 2: Kondensatorschaltungen / Reihen-Par. (+ Z)&#xa;Aufgabe 3: Ladeverhalten / Auf- Entladen (+ Z)&#xa;Aufgabe 4: (Die) Ideale Zylinderspule (+ Zusatzfolie)&#xa;Aufgabe 5: Auf- und Entladen einer Spule (+ Zusatzfolie)&#xa;Aufgabe 6: Spulenschaltungen / Reihen-Par. (+ Z)" id="c4_2">
           <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=10;" vertex="1">
             <mxGeometry height="110" width="280" x="1000" y="310" as="geometry" />
           </mxCell>
