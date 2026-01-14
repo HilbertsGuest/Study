@@ -1,9 +1,142 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="Seite-1" id="CyAoaINKkLP9nmlMD9sv">
-    <mxGraphModel>
+    <mxGraphModel dx="1205" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="Entscheidungslehre (Übungsübersicht)" id="root_node">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;html=1;whiteSpace=wrap;fontSize=20;align=center;" vertex="1">
+            <mxGeometry height="60" width="360" x="640" y="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="1. Übung – Basiswissen: Wahrscheinlichkeitsrechnung" id="cat_1">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="40" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Bedingte Wahrscheinlichkeiten&#xa;Binomialverteilung&#xa;Normalverteilung&#xa;Exponentialverteilung&#xa;Weibullverteilung" id="c1_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="90" width="300" x="40" y="220" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="2. Übung – Idealtypischer Ablauf&#xa;eines rationalen Entscheidungsprozesses" id="cat_2">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="40" y="340" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Proaktiv statt reaktiv&#xa;Instrumental- vs. Fundamentalziel&#xa;Ergebnis-/Entscheidungsmatrix" id="c2_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="60" width="300" x="40" y="400" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="3. Übung – Deskriptive&#xa;Entscheidungstheorie" id="cat_3">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="400" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Wertfunktion in versch. mentalen Konten und Commitment&#xa;Wahrscheinlichkeitsgewichtefunktion&#xa;Dynexite Aufgabe Loss Aversion und Commitment&#xa;Dynexite Aufgabe Wertfunktion" id="c3_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="80" width="300" x="400" y="220" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="4. Übung – Deskriptive&#xa;Entscheidungstheorie" id="cat_4">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="400" y="340" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risikoverhalten&#xa;Risikoeinstellung&#xa;Dynexite Aufgabe Risikoverhalten, Risikoeinstellung&#xa;Dynexite Aufgabe Wertfunktion" id="c4_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="70" width="300" x="400" y="400" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="5. Übung – Deskriptive&#xa;Entscheidungstheorie" id="cat_5">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="760" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Discounted-Utility-Modelle&#xa;Dynexite Aufgabe Zeitliches Diskontieren" id="c5_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="50" width="300" x="760" y="220" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="6. Übung – Präskriptive&#xa;Entscheidungstheorie" id="cat_6">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="760" y="340" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Dominanz von Alternativen&#xa;Exponentielle Nutzenfunktion&#xa;Additive Nutzenfunktion&#xa;Dynexite Aufgabe Additive Nutzenfunktion" id="c6_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="70" width="300" x="760" y="400" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="7. Übung – Präskriptive&#xa;Entscheidungstheorie" id="cat_7">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="1120" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Zielgewichte und Trade-off-Verfahren&#xa;Bandbreiteneffekt&#xa;Dynexite Aufgabe Additive Nutzenfunktion, Trade-off Verfahren" id="c7_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="60" width="300" x="1120" y="220" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="8. Übung – Präskriptive&#xa;Entscheidungstheorie" id="cat_8">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1">
+            <mxGeometry height="50" width="300" x="1120" y="340" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Dominanz bei unvollständiger Information (Intervalle)&#xa;Dominanz bei unvollständiger Information (Ordnen der Wahrsch.)&#xa;Risikoprofile, stochastische Dominanz&#xa;Dynexite Aufgabe Dominanz bei unvollständiger Information&#xa;Dynexite Aufgabe Risikoprofile" id="c8_content">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;align=left;spacingLeft=5;fontSize=11;" vertex="1">
+            <mxGeometry height="90" width="300" x="1120" y="400" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="e1" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;" target="cat_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;" target="cat_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;" target="cat_5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;" target="cat_7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub1" edge="1" parent="1" source="cat_1" style="endArrow=none;html=1;rounded=0;" target="c1_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flow1" edge="1" parent="1" source="c1_content" style="endArrow=none;html=1;rounded=0;dashed=1;" target="cat_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub2" edge="1" parent="1" source="cat_2" style="endArrow=none;html=1;rounded=0;" target="c2_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub3" edge="1" parent="1" source="cat_3" style="endArrow=none;html=1;rounded=0;" target="c3_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flow2" edge="1" parent="1" source="c3_content" style="endArrow=none;html=1;rounded=0;dashed=1;" target="cat_4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub4" edge="1" parent="1" source="cat_4" style="endArrow=none;html=1;rounded=0;" target="c4_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub5" edge="1" parent="1" source="cat_5" style="endArrow=none;html=1;rounded=0;" target="c5_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flow3" edge="1" parent="1" source="c5_content" style="endArrow=none;html=1;rounded=0;dashed=1;" target="cat_6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub6" edge="1" parent="1" source="cat_6" style="endArrow=none;html=1;rounded=0;" target="c6_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub7" edge="1" parent="1" source="cat_7" style="endArrow=none;html=1;rounded=0;" target="c7_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flow4" edge="1" parent="1" source="c7_content" style="endArrow=none;html=1;rounded=0;dashed=1;" target="cat_8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sub8" edge="1" parent="1" source="cat_8" style="endArrow=none;html=1;rounded=0;" target="c8_content">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
