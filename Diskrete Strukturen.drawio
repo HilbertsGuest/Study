@@ -1,9 +1,158 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="Seite-1" id="8E-oeSAdl788HDkz7Z4H">
-    <mxGraphModel>
+    <mxGraphModel dx="1205" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="Diskrete Strukturen &amp; LinA&#xa;(Themenübersicht)" id="root_node">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;html=1;whiteSpace=wrap;fontSize=16;align=center;" vertex="1">
+            <mxGeometry height="70" width="280" x="460" y="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="1. Math. Grundbegriffe" id="cat_1">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="40" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="2. Algebraische Strukturen" id="cat_2">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="260" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="3. Lineare Algebra" id="cat_3">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="480" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="4. Kombinatorik" id="cat_4">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="700" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="5. Graphentheorie" id="cat_5">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="920" y="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Aussagenlogik&#xa;(DNF, Implikation)" id="sub_1_1">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="40" y="260" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Mengenlehre&#xa;(Potenzmengen)" id="sub_1_2">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="40" y="320" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Relationen&#xa;(Äquivalenz, Ordnung)" id="sub_1_3">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="40" y="380" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gruppen, Ringe, Körper&#xa;(Einheiten, Kongruenzen)" id="sub_2_1">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="260" y="260" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Polynome&#xa;(Irreduzibilität, Ideale)" id="sub_2_2">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="260" y="320" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Teilbarkeit &amp; Euklid&#xa;(ggT, erw. Euklid)" id="sub_2_3">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="260" y="380" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Permutationen&#xa;(Zykel, Signum)" id="sub_2_4">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="260" y="440" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="LGS &amp; Matrizen&#xa;(Lösungsmenge, Sym.)" id="sub_3_1">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="480" y="260" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Zählprinzipien&#xa;(Wörter, Anordnungen)" id="sub_4_1">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="700" y="260" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Spezielle Zahlen&#xa;(Stirling-Zahlen)" id="sub_4_2">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="700" y="320" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Struktur &amp; Kenngrößen&#xa;(Knoten, Kanten, Komp.)" id="sub_5_1">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="920" y="260" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Wege &amp; Kreise&#xa;(Euler, Hamilton)" id="sub_5_2">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="920" y="320" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Bäume &amp; Gerüste&#xa;(MST, Brücken)" id="sub_5_3">
+          <mxCell parent="1" style="shape=rect;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="180" x="920" y="380" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="edge_1" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" target="cat_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_2" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" target="cat_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_3" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" target="cat_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_4" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" target="cat_4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_5" edge="1" parent="1" source="root_node" style="endArrow=blockThin;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" target="cat_5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1_1" edge="1" parent="1" source="cat_1" style="endArrow=none;html=1;rounded=0;" target="sub_1_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1_2" edge="1" parent="1" source="sub_1_1" style="endArrow=none;html=1;rounded=0;" target="sub_1_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_1_3" edge="1" parent="1" source="sub_1_2" style="endArrow=none;html=1;rounded=0;" target="sub_1_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_2_1" edge="1" parent="1" source="cat_2" style="endArrow=none;html=1;rounded=0;" target="sub_2_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_2_2" edge="1" parent="1" source="sub_2_1" style="endArrow=none;html=1;rounded=0;" target="sub_2_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_2_3" edge="1" parent="1" source="sub_2_2" style="endArrow=none;html=1;rounded=0;" target="sub_2_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_2_4" edge="1" parent="1" source="sub_2_3" style="endArrow=none;html=1;rounded=0;" target="sub_2_4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_3_1" edge="1" parent="1" source="cat_3" style="endArrow=none;html=1;rounded=0;" target="sub_3_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_4_1" edge="1" parent="1" source="cat_4" style="endArrow=none;html=1;rounded=0;" target="sub_4_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_4_2" edge="1" parent="1" source="sub_4_1" style="endArrow=none;html=1;rounded=0;" target="sub_4_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5_1" edge="1" parent="1" source="cat_5" style="endArrow=none;html=1;rounded=0;" target="sub_5_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5_2" edge="1" parent="1" source="sub_5_1" style="endArrow=none;html=1;rounded=0;" target="sub_5_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5_3" edge="1" parent="1" source="sub_5_2" style="endArrow=none;html=1;rounded=0;" target="sub_5_3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
